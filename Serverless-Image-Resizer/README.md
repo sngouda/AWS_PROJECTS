@@ -6,6 +6,29 @@ Built a serverless image-processing application using Amazon S3 and AWS Lambda. 
 
 The application uses Python and the Pillow library for image processing.
 
+## Project Screenshots
+
+### 1. S3 Bucket Structure
+![S3 Bucket](screenshots/s3-bucket.png)
+
+### 2. Lambda Function
+![Lambda Function](screenshots/lambda-function.png)
+
+### 3. Pillow Lambda Layer
+![Lambda Layer](screenshots/lambda-layer.png)
+
+### 4. S3 Event Notification
+![S3 Trigger](screenshots/s3-trigger.png)
+
+### 5. IAM Restricted Permissions
+![IAM Permissions](screenshots/iam-permissions.png)
+
+### 6. CloudWatch Execution Logs
+![CloudWatch Logs](screenshots/cloudwatch-logs.png)
+
+### 7. Resized Image
+![Resized Image](screenshots/resized-image.png)
+
 ## Architecture
 
 ```text
