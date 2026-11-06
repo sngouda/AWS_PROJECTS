@@ -9,23 +9,23 @@ The application uses Python and the Pillow library for image processing.
 ## Project Screenshots
 
 ### 1. S3 Bucket Structure
-![S3 Bucket](screenshots/S3-bucket.png)
+![S3 Bucket](screenshots/S3-bucket.png.png)
 
 ### 2. Lambda Function
-![Lambda Function](screenshots/Lambda-function.png)
+![Lambda Function](screenshots/Lambda-function.png.png)
 
 ### 3. Pillow Lambda Layer
-![Lambda Layer](screenshots/Lambda-layer.png)
+![Lambda Layer](screenshots/Lambda-layer.png.png)
 
 
 ### 4. IAM Restricted Permissions
-![IAM Permissions](screenshots/iam-permission.png)
+![IAM Permissions](screenshots/iam-permission.png.png)
 
-### 6. CloudWatch Execution Logs
-![CloudWatch Logs](screenshots/cloudWatch-log.png)
+### 5. CloudWatch Execution Logs
+![CloudWatch Logs](screenshots/cloudWatch-log.png.png)
 
-### 7. Resized Image
-![Resized Image](screenshots/resized-image.png)
+### 6. Resized Image
+![Resized Image](screenshots/resized-image.png.png)
 
 ## Architecture
 
