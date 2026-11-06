@@ -1,4 +1,4 @@
-# Project 6: Serverless Image Resizer using AWS Lambda and S3
+# Project 2: Serverless Image Resizer using AWS Lambda and S3
 
 ## Project Overview
 
