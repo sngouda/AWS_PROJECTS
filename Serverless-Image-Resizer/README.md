@@ -27,6 +27,9 @@ The application uses Python and the Pillow library for image processing.
 ### 6. Resized Image
 ![Resized Image](screenshots/resized-image.png.png)
 
+### 7. S3 Event Notification
+![S3 Trigger](screenshots/s3-trigger.png)
+
 ## Architecture
 
 ```text
