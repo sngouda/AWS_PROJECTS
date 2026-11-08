@@ -13,6 +13,21 @@ User Browser → Internet → AWS EC2 Instance → Apache Web Server → Custom 
 - Ubuntu 24.04 LTS
 - Apache HTTP Server
 
+## Screenshots
+
+### 1. EC2 Instance
+![EC2 Instance](ec2-instance.png)
+
+### 2. Security Group Configuration
+![Security Group](security-group.png)
+
+### 3. Apache Service Status
+![Apache Status](apache-status.png)
+
+### 4. Custom Website
+![Custom Website](custom-website.png)
+
+
 ## Implementation Steps
 1. Launched an Ubuntu 24.04 EC2 instance in the Mumbai region (ap-south-1).
 2. Configured a security group to allow SSH (port 22) and HTTP (port 80).
