@@ -14,19 +14,18 @@ User Browser → Internet → AWS EC2 Instance → Apache Web Server → Custom 
 - Apache HTTP Server
 
 ## Screenshots
-## Screenshots
 
 ### 1. EC2 Instance
-![EC2 Instance](ec2-instance.png)
+![EC2 Instance](screenshots/ec2-instance.png)
 
 ### 2. Security Group Configuration
-![Security Group](security-group.png)
+![Security Group](screenshots/security-group.png)
 
 ### 3. Apache Service Status
-![Apache Status](apache-status.png)
+![Apache Status](screenshots/apache-status.png)
 
 ### 4. Custom Website
-![Custom Website](custom-website.png)
+![Custom Website](screenshots/custom-website.png)
 
 ## Implementation Steps
 1. Launched an Ubuntu 24.04 EC2 instance in the Mumbai region (ap-south-1).
