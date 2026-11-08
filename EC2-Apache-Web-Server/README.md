@@ -14,6 +14,7 @@ User Browser → Internet → AWS EC2 Instance → Apache Web Server → Custom 
 - Apache HTTP Server
 
 ## Screenshots
+## Screenshots
 
 ### 1. EC2 Instance
 ![EC2 Instance](ec2-instance.png)
@@ -26,7 +27,6 @@ User Browser → Internet → AWS EC2 Instance → Apache Web Server → Custom 
 
 ### 4. Custom Website
 ![Custom Website](custom-website.png)
-
 
 ## Implementation Steps
 1. Launched an Ubuntu 24.04 EC2 instance in the Mumbai region (ap-south-1).
