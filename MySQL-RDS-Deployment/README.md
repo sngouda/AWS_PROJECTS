@@ -45,7 +45,21 @@ Deployed a managed MySQL database using Amazon Relational Database Service (Amaz
 Asia Pacific (Mumbai) – `ap-south-1`
 
 ## Screenshots
-Screenshots demonstrating the deployment, connectivity, security configuration, and SQL operations are available in the `screenshots/` folder.
+
+### RDS Database
+![RDS Database](screenshots/rds-database.png)
+
+### RDS Connectivity
+![RDS Connectivity](screenshots/rds-connectivity.png)
+
+### DB Subnet Group
+![DB Subnet Group](screenshots/db-subnet-group.png)
+
+### EC2 Instance
+![EC2 Instance](screenshots/ec2-instance-rds.png)
+
+### SQL Operations
+![SQL Operations](screenshots/sql-operations.png)
 
 ## Cleanup
 AWS resources were removed after completing the hands-on exercise to minimize ongoing costs.
