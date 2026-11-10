@@ -27,6 +27,28 @@ flowchart TD
 
 ## Implementation Details
 
+## Screenshots
+
+### 1. CloudWatch Alarms
+![CloudWatch Alarms](https://github.com/sngouda/AWS_PROJECTS/blob/main/CloudWatch-SNS-Monitoring/screenshots/cloudwatch-alarms.png)
+
+### 2. EC2 Monitoring
+![EC2 High CPU](https://github.com/sngouda/AWS_PROJECTS/blob/main/CloudWatch-SNS-Monitoring/screenshots/ec2-high-cpu.png)
+
+![EC2 Instance](https://github.com/sngouda/AWS_PROJECTS/blob/main/CloudWatch-SNS-Monitoring/screenshots/ec2-instance.png)
+
+### 3. RDS Monitoring
+![RDS CPU Utilization](https://github.com/sngouda/AWS_PROJECTS/blob/main/CloudWatch-SNS-Monitoring/screenshots/rds-cpu-utilization.png)
+
+![RDS Database](https://github.com/sngouda/AWS_PROJECTS/blob/main/CloudWatch-SNS-Monitoring/screenshots/rds-database.png)
+
+### 4. SNS Configuration and Notifications
+![SNS Alert Email](https://github.com/sngouda/AWS_PROJECTS/blob/main/CloudWatch-SNS-Monitoring/screenshots/sns-alert-email.png)
+
+![SNS Subscription](https://github.com/sngouda/AWS_PROJECTS/blob/main/CloudWatch-SNS-Monitoring/screenshots/sns-subscription.png)
+
+![SNS Topic](https://github.com/sngouda/AWS_PROJECTS/blob/main/CloudWatch-SNS-Monitoring/screenshots/sns-topic.png)
+
 ### 1. SNS Configuration
 
 - Created an SNS Standard topic named `AWS-Monitoring-Alerts`.
